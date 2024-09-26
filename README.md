@@ -9,7 +9,7 @@ Please note that this section will be updated with more info soon!
 📥 Downloading  
 📷 Camera  
 🔥 Streaks  
-📱  User Interface  
+📱‎ ‎User Interface  
 📜 Rules  
 🎯 Tracking  
 🌎 Misc  
