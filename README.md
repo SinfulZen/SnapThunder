@@ -19,6 +19,9 @@ Please note that this section will be updated with more info soon!
 ### Compatability
 As SnapChat is now taking third party applications and modifications seriously, things like FM Snap, SnapEnhance and ZenSnap are now easily detectable (on newer versions of the app). To prevent this, SnapThunder does as much as it can to spoof the app version and anything that can be flagged on SnapChat's systems. This allows the User to use an up-to-date version of the app with very minimal risks. I recommend using SnapChat V12.86.0.44 minimum when signing into Your account (before updating to a later version).  
 
+### Download
+If You'd like to download the APK (UI only), You can find it in the releases section or [here](#).  
+
 ### Warnings
 As mentioned above, using without caution can put Your account at risk. When this mod is made public, be sure to be as careful as possible as I DO NOT take any responsibility if accounts get temporarily, permanently locked or disabled.  
 
