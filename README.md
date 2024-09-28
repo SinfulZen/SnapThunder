@@ -8,7 +8,7 @@ Please note that this section will be updated with more info soon!
 💬 Messaging  
 📥 Downloading  
 📷 Camera  
-🔥 Streaks  
+⚡ Streaks  
 🔌 User Interface  
 📜 Rules  
 🎯 Tracking  
