@@ -14,7 +14,7 @@ Please note that this section will be updated with more info soon!
 🎯 Tracking  
 🌎 Misc  
 🧪 Experimental  
-📋 Scripting  
+🛠️ Scripting  
 
 ### Compatability
 As SnapChat is now taking third party applications and modifications seriously, things like FM Snap, SnapEnhance and ZenSnap are now easily detectable (on newer versions of the app). To prevent this, SnapThunder does as much as it can to spoof the app version and anything that can be flagged on SnapChat's systems. This allows the User to use an up-to-date version of the app with very minimal risks. I recommend using SnapChat V12.86.0.44 minimum when signing into Your account (before updating to a later version).  
