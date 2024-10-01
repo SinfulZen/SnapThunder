@@ -135,13 +135,49 @@ Please note that the features listed below are what My mod currently has. I'll u
   - `Prevent Forced Logout`
 </details>  
 
+<details closed>
+  <summary>🧿 Spoofing</summary>
+   
+  - `SnapChat Version`
+  - `GMS Version`
+  - `Installer Package Name`
+  - `Device FingerPrint`
+  - `Android ID`
+  - `VPN Detection Prevention`
+  - `Mock Location Detection Prevention`
+  - `Randomize Persistent Device Token`
+  - `Spoof IP Address`
+  - `Spoof MAC Address`
+  - `Spoof OS Status`
+</details>
+
+<details closed>
+  <summary>🆕 Updating</summary>
+   
+  - `SnapChat Updates`
+  - `SnapThunder Updates`
+  - `Application Builds`
+  - `App Debugging`
+
+</details>
+
+<details closed>
+  <summary>🐞 Debugging</summary>
+   
+  - `Debug Logs`
+  - `Logging`
+  - `Config Management`
+  - `Feature Loading`
+  - `Auto Mapping`
+  - `Security Implementations`
+
+</details>
+
 Coming soon (please note that some already existing features will be moved into other or new categories over time):
 ⚡ Streaks  
 📜 Rules  
 🎯 Tracking  
-🛠️ Scripting  
-🆕 Updating  
-🧿 Spoofing  
+🛠️ Scripting    
 🎨 Theming
 
 ### Compatability
