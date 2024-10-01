@@ -155,7 +155,8 @@ If You'd like to download the APK (UI only), You can find it in the releases sec
 As mentioned above, using without caution can put Your account at risk. When this mod is made public (read below when), be sure to be as careful as possible as I DO NOT take any responsibility if accounts get temporarily, permanently locked or disabled.  
 
 ### Notes
-For now, only the general app look and feel is being worked on. As the app is being developed in Kotlin, JavaScript, Dark and ReactNative, I'm using HTML and CSS as a base design so I can test out the GUI, UI and UX.  
+- For now, only the general app look and feel is being worked on. As the app is being developed in Kotlin, JavaScript (& ReactNative) and Dark, I'm using HTML and CSS as a base design so I can test out the GUI, UI and UX.
+- If the mod is made public in the future, I'll release several methods on how to use it. As it is now, the mod is an injection process but I may work on a standalone app (everything built into the SnapChat APK). I may also release a simple tool so that People can choose a SnapChat APK and patch with a SnapThunder build of Their choice. This allows extended customisation fitted to the User's needs!
 
 ### Feature Suggestions
 If You have any features You'd like to be added, feel free to use My contact info below or open an issues.  
