@@ -1,3 +1,4 @@
+![snapthunder-banner](https://github.com/user-attachments/assets/f607a584-48cc-4b31-ab8c-17e34fd3c6f1)
 ## SnapThunder
 
 ### About
