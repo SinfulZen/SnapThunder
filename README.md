@@ -2,7 +2,7 @@
 ## SnapThunder
 
 ### About
-SnapThunder is My private modification for SnapChat (Android). It uses techniques that won't be named to inject into the SnapChat app and load extended functionality and features. It's previously known as [ZenSnap](https://github.com/SinfulZen/ZenSnap) which has been discontinued due to SnapChat's fight against modifications. I'm now going to be developing SnapThunder which will be more lightweight, safer to use and more feature rich.  
+SnapThunder is My private modification for SnapChat (Android). It uses techniques that won't be named (due to People stealing My work) to inject into the SnapChat app and load extended functionality and features. It's previously known as [ZenSnap](https://github.com/SinfulZen/ZenSnap) which has been discontinued due to SnapChat's fight against modifications. I'm now going to be developing SnapThunder which will be more lightweight, safer to use and more feature rich.  
 
 ### Features  
 Please note that the features listed below are what My mod currently has. I'll update this section every time I add a new feature!  
