@@ -78,7 +78,7 @@ Please note that the features listed below are what My mod currently has. I'll u
  </details>
 
 <details closed>
-  <summary>🌎 Global</summary>
+  <summary>🌎 Misc</summary>
  
   - `Enhanced Location`
   - `Location Update Suspending`
