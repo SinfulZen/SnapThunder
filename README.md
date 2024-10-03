@@ -205,9 +205,52 @@ Coming soon (please note that some already existing features will be moved into 
 🎯 Tracking    
 
 ### Compatability
-I recommend using SnapChat V11.X.X.X minimum when signing into Your account (before updating to a later version).  
+I recommend using SnapChat V11.3.X.X minimum when signing into Your account (before updating to a later version). SnapChat 12.35.0.31 and upwards are versions that have security and integrity checks integrated (SnapThunder works best on 11.3.X.X+).  
 
-SnapChat is now taking third party applications and modifications seriously, things like FM-Snap, SnapEnhance and ZenSnap are now easily detectable (on newer versions of the app). To prevent this, SnapThunder does as much as it can to spoof the app version and anything that can be flagged on SnapChat's systems. This allows the User to use an up-to-date version of the app with very minimal risks. Spoofing and protection are features that can be toggled, allowing You to fully protect Yourself!  
+SnapChat is now taking third party applications and modifications seriously. Things like FM-Snap, SnapEnhance and ZenSnap are now easily detectable (on newer versions of the app). To prevent this, SnapThunder does as much as it can to spoof the app version and anything that can be flagged on SnapChat's systems. This allows the User to use an up-to-date version of the app with very minimal risks. Spoofing and protection are features that can be toggled, allowing You to fully protect Yourself!  
+
+### Testing
+Below is info about which versions of Android and SnapChat I have tested. This info may be handy to some who like the specific details.  
+
+DEVICES USED  
+- Samsung Galaxy S6 Edge  
+- Samsung Galaxy S10  
+- Samsung Galaxy S21 FE 5G  
+- Samsung Galaxy S22  
+- Samsung Galaxy S23 Ultra  
+- Samsung Galaxy S24 Ultra 5G  
+- Samsung Galaxy A32  
+- Samsung Galaxy A40  
+- Samsung Galaxy Tab A7  
+- Huawei P8 Lite  
+- Huawei P30 Pro  
+
+ANDROID VERSIONS  
+- Android 8 (only certain versions of SnapChat can be used with SnapThunder on this Android version)  
+- Android 9 (only certain versions of SnapChat can be used with SnapThunder on this Android version)  
+- Android 10 (only certain versions of SnapChat can be used with SnapThunder on this Android version)  
+- Android 11  
+- Android 12  
+- Android 13  
+- Android 14  
+- Android 15
+
+SNAPCHAT VERSIONS  
+- 11.3.0.66  
+- 11.4.5.78  
+- 11.10.1.37  
+- 11.23.0.33  
+- 11.34.0.37  
+- 11.55.0.28  
+- 12.0.0.12  
+- 12.81.0.37 Beta  
+- 12.83.0.36 Beta  
+- 12.70.0.29 Beta  
+- 12.35.0.45 Beta  
+- 13.10.0.40  
+- 13.11.0.32 Beta
+
+Please note that the SnapChat versions listed above have been tested manually and are the most stable to use along with SnapThunder. Obviously there will be many other versions that will work great but these are the versions I've tested personally. When the SnapThunder Discord server is complete, I'll set up a channel where Members can post about versions They've tested or want to be tested. I will also get around to making an auto tester (a script that tests SnapThunder on as many SnapChat versions as possible).  
 
 ### Download
 If You'd like to download the APK (UI only), You can download it using the links below. More sources for downloading will be added in the future!  
