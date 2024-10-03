@@ -209,8 +209,8 @@ I recommend using SnapChat V11.3.X.X minimum when signing into Your account (bef
 
 SnapChat is now taking third party applications and modifications seriously. Things like FM-Snap, SnapEnhance and ZenSnap are now easily detectable (on newer versions of the app). To prevent this, SnapThunder does as much as it can to spoof the app version and anything that can be flagged on SnapChat's systems. This allows the User to use an up-to-date version of the app with very minimal risks. Spoofing and protection are features that can be toggled, allowing You to fully protect Yourself!  
 
-### Testing
-Below is info about which versions of Android and SnapChat I have tested. This info may be handy to some who like the specific details.  
+### Testing & Support
+Below is info about which versions of Android and SnapChat I have tested. This info may be handy to some who like the specific details. Please note that if using a custom OS or ROM, You MIGHT experience some issues! If and when the mod is made public, there will be both an LS-Posed and LS-Patch method! Of course pre-built binaries will also be available to download as well.  
 
 DEVICES USED  
 - Samsung Galaxy S6 Edge  
