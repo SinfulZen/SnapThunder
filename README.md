@@ -207,10 +207,17 @@ Coming soon (please note that some already existing features will be moved into 
 ### Compatability
 I recommend using SnapChat V11.X.X.X minimum when signing into Your account (before updating to a later version).  
 
-SnapChat is now taking third party applications and modifications seriously, things like FM-Snap, SnapEnhance and ZenSnap are now easily detectable (on newer versions of the app). To prevent this, SnapThunder does as much as it can to spoof the app version and anything that can be flagged on SnapChat's systems. This allows the User to use an up-to-date version of the app with very minimal risks. Spoofing and protection will be included as features that can be toggled in future development.  
+SnapChat is now taking third party applications and modifications seriously, things like FM-Snap, SnapEnhance and ZenSnap are now easily detectable (on newer versions of the app). To prevent this, SnapThunder does as much as it can to spoof the app version and anything that can be flagged on SnapChat's systems. This allows the User to use an up-to-date version of the app with very minimal risks. Spoofing and protection are features that can be toggled, allowing You to fully protect Yourself!  
 
 ### Download
-If You'd like to download the APK (UI only), You can find it in the releases section or [here](https://github.com/SinfulZen/SnapThunder/releases/download/1.0.0/SnapThunder-UI.apk). More sources for downloading will be added in the future!
+If You'd like to download the APK (UI only), You can download it using the links below. More sources for downloading will be added in the future!  
+[Direct download](https://github.com/SinfulZen/SnapThunder/releases/download/1.0.0/SnapThunder-UI.apk)  
+[GitHub releases](https://github.com/SinfulZen/SnapThunder/releases/tag/1.0.0)  
+[SnapThunder Server](https://google.com/404) (Not ready yet)  
+[Google Drive](https://google.com/404) (Not ready yet)  
+[MediaFire](https://google.com/404) (Not ready yet)  
+[Mega](https://google.com/404) (Not ready yet)  
+[AnonFiles](https://google.com/404) (Not ready yet)  
 
 ### Warnings
 As mentioned above, using without caution can put Your account at risk. When this mod is made public (read below when), be sure to be as careful as possible as I DO NOT take any responsibility if accounts get temporarily, permanently locked or disabled.  
