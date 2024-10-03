@@ -199,7 +199,7 @@ Please note that the features listed below are what My mod currently has. I'll u
 
 </details>
 
-Coming soon (please note that some already existing features will be moved into other or new categories over time):
+Coming soon (please note that some already existing features will be moved into other or new categories over time):  
 ⚡ Streaks  
 📜 Rules  
 🎯 Tracking    
