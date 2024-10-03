@@ -173,12 +173,36 @@ Please note that the features listed below are what My mod currently has. I'll u
 
 </details>
 
+<details closed>
+  <summary>🛠️ Scripting</summary>
+   
+  - `Script Store`
+  - `Script Creator`
+  - `Your Scripts`
+  - `Upload To GitHub`
+  - `Backup Scripts`
+  - `Wipe Script Data`
+
+</details>
+
+<details closed>
+  <summary>🎨 Theming</summary>
+   
+  - `Theme Store`
+  - `Theme Creator`
+  - `Default Themes`
+  - `Experimental Theming`
+  - `Your Themes`
+  - `Upload To GitHub`
+  - `Backup Themes`
+  - `Wipe Theme Data`
+
+</details>
+
 Coming soon (please note that some already existing features will be moved into other or new categories over time):
 ⚡ Streaks  
 📜 Rules  
-🎯 Tracking  
-🛠️ Scripting    
-🎨 Theming
+🎯 Tracking    
 
 ### Compatability
 I recommend using SnapChat V11.X.X.X minimum when signing into Your account (before updating to a later version).  
