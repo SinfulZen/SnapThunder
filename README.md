@@ -236,19 +236,19 @@ ANDROID VERSIONS
 - Android 15
 
 SNAPCHAT VERSIONS  
-- 11.3.0.66  
-- 11.4.5.78  
-- 11.10.1.37  
-- 11.23.0.33  
-- 11.34.0.37  
-- 11.55.0.28  
-- 12.0.0.12  
-- 12.81.0.37 Beta  
-- 12.83.0.36 Beta  
-- 12.70.0.29 Beta  
-- 12.35.0.45 Beta  
-- 13.10.0.40  
-- 13.11.0.32 Beta
+- [11.3.0.66](https://www.apkmirror.com/apk/snapchat/snapchat-11-3-0-66-release/snapchat-11-3-0-66-android-apk-download/)  
+- [11.4.5.78](https://www.apkmirror.com/apk/snapchat/snapchat-11-4-5-78-release/snapchat-11-4-5-78-android-apk-download/)  
+- [11.10.1.37](https://www.apkmirror.com/apk/snapchat/snapchat-11-10-1-37-release/snapchat-11-10-1-37-android-apk-download/)  
+- [11.23.0.33](https://www.apkmirror.com/apk/snapchat/snapchat-11-23-0-33-release/snapchat-11-23-0-33-android-apk-download/)  
+- [11.34.0.37](https://www.apkmirror.com/apk/snapchat/snapchat-11-34-0-37-release/snapchat-11-34-0-37-android-apk-download/)  
+- [11.55.0.28](https://www.apkmirror.com/apk/snapchat/snapchat-11-55-0-28-release/snapchat-11-55-0-28-android-apk-download/)  
+- [12.0.0.12](https://www.apkmirror.com/apk/snapchat/snapchat-12-0-0-12-release/snapchat-12-0-0-12-android-apk-download/)
+- [12.35.0.45 Beta](https://www.apkmirror.com/apk/snapchat/snapchat-12-35-0-45-beta-release/snapchat-12-35-0-45-beta-android-apk-download/)
+- [12.70.0.29 Beta](https://www.apkmirror.com/apk/snapchat/snapchat-12-70-0-29-beta-release/snapchat-12-70-0-29-beta-android-apk-download/)  
+- [12.81.0.37 Beta](https://www.apkmirror.com/apk/snapchat/snapchat-12-81-0-37-beta-release/snapchat-12-81-0-37-beta-android-apk-download/)  
+- [12.83.0.36 Beta](https://www.apkmirror.com/apk/snapchat/snapchat-12-83-0-36-beta-release/snapchat-12-83-0-36-beta-android-apk-download/)  
+- [13.10.0.40](https://www.apkmirror.com/apk/snapchat/snapchat-13-10-0-40-release/snapchat-13-10-0-40-android-apk-download/)  
+- [13.11.0.32 Beta](https://www.apkmirror.com/apk/snapchat/snapchat-13-11-0-32-beta-release/snapchat-13-11-0-32-beta-android-apk-download/)
 
 Please note that the SnapChat versions listed above have been tested manually and are the most stable to use along with SnapThunder. Obviously there will be many other versions that will work great but these are the versions I've tested personally. When the SnapThunder Discord server is complete, I'll set up a channel where Members can post about versions They've tested or want to be tested. I will also get around to making an auto tester (a script that tests SnapThunder on as many SnapChat versions as possible).  
 
