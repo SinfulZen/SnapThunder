@@ -155,172 +155,164 @@
 <head>
 
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-        body, html {
-            width: 100%;
-            height: 100%;
-            background-color: #141414;
-            font-family: Arial, sans-serif;
-            color: white;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-        }
+body, html {
+    width: 100%;
+    height: 100%;
+    background-color: #141414;
+    font-family: Arial, sans-serif;
+    color: white;
+    overflow-y: auto;
+}
 
-        .container {
-            width: 100%;
-            max-width: 1200px;
-            text-align: center;
-            position: relative;
-        }
+.container {
+    width: 100%;
+    max-width: 100%;
+    padding: 20px;
+    text-align: center;
+}
 
-        /* Main header text */
-        .main-header {
-            margin-bottom: 30px;
-            text-align: center;
-            position: relative;
-        }
+.main-header {
+    margin-bottom: 20px;
+}
 
-        .main-header h1 {
-            font-size: 32px;
-            background: linear-gradient(to right, lightblue, purple);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
+.main-header h1 {
+    font-size: 28px;
+    background: linear-gradient(to right, lightblue, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
-        .top-icons {
-            position: absolute !important;
-            top: -65px !important;
-            right: -55px !important;
-            display: flex !important;
-            gap: 10px !important;
-        }
+.top-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: -40px;
+}
 
-        .top-icons img {
-            width: 30px;
-            height: 30px;
-            margin-left: 15px;
-            cursor: pointer;
-        }
+.top-icons img {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
 
-        .top-icons img:hover {
-            opacity: 0.8;
-        }
+.top-icons img:hover {
+    opacity: 0.8;
+}
 
-        .icon-links {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 30px;
-        }
+.icon-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
 
-        .icon-links img {
-            width: 40px;
-            height: 40px;
-            margin: 0 15px;
-            cursor: pointer;
-        }
+.icon-links img {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
 
-        .icon-links img:hover {
-            opacity: 0.8;
-        }
+.icon-links img:hover {
+    opacity: 0.8;
+}
 
-        .rounded-body {
-            background-color: #1e1e1e;
-            border: 2px solid #7243ff;
-            border-radius: 25px;
-            padding: 20px;
-            margin-bottom: 30px;
-            font-size: 18px;
-        }
+.rounded-body {
+    background-color: #1e1e1e;
+    border: 2px solid #7243ff;
+    border-radius: 25px;
+    padding: 15px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
 
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-            justify-content: center;
-            margin-bottom: 30px;
-        }
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
 
-        .tile {
-            background-color: #1e1e1e;
-            border: 2px solid #7243ff;
-            border-radius: 15px;
-            padding: 20px;
-            position: relative;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-        }
+.tile {
+    background-color: #1e1e1e;
+    border: 2px solid #7243ff;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+}
 
-        .tile img {
-            width: 50px;
-            height: 50px;
-            margin-bottom: 10px;
-            cursor: pointer;
-        }
+.tile img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
 
-        .tile h4 {
-            margin-top: 10px;
-            font-size: 16px;
-        }
+.tile h4 {
+    font-size: 14px;
+}
 
-        .tile .small-icon {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            width: 20px;
-            height: 20px;
-            cursor: pointer;
-        }
+.tile .small-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
 
-        .popup {
-            display: none;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: #1e1e1e;
-            border: 2px solid #7243ff;
-            border-radius: 25px;
-            padding: 20px;
-            width: 300px;
-            text-align: center;
-            z-index: 999;
-        }
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #1e1e1e;
+    border: 2px solid #7243ff;
+    border-radius: 25px;
+    padding: 20px;
+    width: 280px;
+    text-align: center;
+    z-index: 999;
+}
 
-        .popup p {
-            margin-bottom: 20px;
-            font-size: 18px;
-        }
+.popup p {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
 
-        .popup .close-text {
-            font-size: 16px;
-            color: lightblue;
-            cursor: pointer;
-        }
+.popup .close-text {
+    font-size: 14px;
+    color: lightblue;
+    cursor: pointer;
+}
 
-        .popup .close-text:hover {
-            opacity: 0.8;
-        }
+.popup .close-text:hover {
+    opacity: 0.8;
+}
 
-        .overlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.7);
-            z-index: 998;
-        }
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 998;
+}
+
     </style>
 </head>
 <body>
@@ -347,10 +339,10 @@
     </div>
 
     <div class="rounded-body">
-        <p>Version: 0.0.4</p>
-        <p>Build: 8</p>
+        <p>Version: 0.0.6 (Fix)</p>
+        <p>Build: 9</p>
         <p>Release: Debug</p>
-        <p>Updated: 01/10/2024, 02:32AM EST</p>
+        <p>Updated: 03/10/2024, 11:52AM EST</p>
     </div>
 
     <div class="grid-container">
