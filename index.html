@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SnapThunder</title>
+    <meta name="description" content="An advanced SnapChat modification for Android.">
+    <meta name="keywords" content="Advanced, SnapChat, Modification, Android, GitHub">
+    <link rel="icon" href="assets/images/branding/icon.ico" type="image/x-icon">
+    
+    <style>
+
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            width: 100vw;
+            background: radial-gradient(circle at bottom left, #0e111f 1%, #0e111f 40%);
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        @media (min-width: 768px) {
+            body {
+                width: 50vw;
+                margin: 0 auto;
+            }
+        }
+
+        .header-section {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            background: linear-gradient(to right, #add8e6, #301934);
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+
+        p {
+            font-size: 1.2rem;
+            color: white;
+            margin-top: 10px;
+        }
+
+        .gif-container {
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .gif-container img {
+            width: 350px;
+            height: 350px;
+            object-fit: contain;
+        }
+
+        .bottom-section {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .dot-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        .dot {
+            width: 12px;
+            height: 12px;
+            margin: 0 5px;
+            background-color: white;
+            border-radius: 50%;
+            animation: fade 1s infinite alternate;
+        }
+
+        .dot:nth-child(2) {
+            animation-delay: 0.3s;
+        }
+
+        .dot:nth-child(3) {
+            animation-delay: 0.6s;
+        }
+
+        @keyframes fade {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .pill-bar {
+            margin-top: 20px;
+            padding: 10px 20px;
+            border: 2px solid white;
+            border-radius: 25px;
+            color: white;
+            text-align: center;
+            font-size: 1rem;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header-section">
+        <h2>SnapThunder</h2>
+        <p>SnapChat at its best!</p>
+    </div>
+
+    <div class="gif-container">
+        <img src="assets/loading.gif" alt="GIF Image">
+    </div>
+
+    <div class="bottom-section">
+
+        <div class="dot-container">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+
+        <div class="pill-bar">Debug build</div>
+    </div>
+
+    <script>
+
+        setTimeout(function() {
+            window.location.href = "application/home/index.html";
+        }, 5000);
+    </script>
+
+</body>
+</html>
