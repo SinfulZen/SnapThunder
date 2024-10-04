@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SnapThunder</title>
+    <meta name="description" content="An advanced SnapChat modification for Android.">
+    <meta name="keywords" content="Advanced, SnapChat, Modification, Android, GitHub">
+    <link rel="icon" href="assets/images/branding/icon.ico" type="image/x-icon">
+    
+    <style>
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0e111f;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            overflow-y: auto;
+            color: white;
+        }
+
+        @media (min-width: 768px) {
+            body {
+                width: 50vw;
+                margin: 0 auto;
+            }
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0e111f;
+        }
+        ::-webkit-scrollbar-thumb {
+            background-color: lightgrey;
+            border-radius: 10px;
+        }
+
+        .top-left {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .top-left img, .top-right img {
+            width: 20px;
+            height: 20px;
+            margin-right: 5px;
+        }
+
+        .top-left span {
+            font-size: 1rem;
+        }
+
+        .top-right {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .top-center {
+            position: absolute;
+            top: 10px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .header-section {
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        h3 {
+            font-size: 1.8rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+        }
+
+        .icon-row {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+
+        .icon-row img {
+            width: 28px;
+            height: 28px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+
+        .rounded-body {
+            margin-top: 20px;
+            padding: 15px;
+            border: 2px solid white;
+            border-radius: 20px;
+            width: 90%;
+            text-align: center;
+        }
+
+        .tile-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-top: 20px;
+            width: 90%;
+        }
+
+        .tile {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: #1e1e1e;
+            border: 2px solid white;
+            border-radius: 15px;
+            height: 100px;
+        }
+
+        .tile img {
+            width: 30px;
+            height: 30px;
+        }
+
+        .tile span {
+            margin-top: 5px;
+            font-size: 0.9rem;
+        }
+
+        .tile-grid-spacing {
+            margin-bottom: 50px;
+        }
+
+        .nav-bar {
+            position: fixed;
+            bottom: 10px;
+            display: flex;
+            justify-content: space-around;
+            border: 2px solid white;
+            border-radius: 25px;
+            background-color: #1e1e1e;
+            width: 90%;
+            padding: 10px;
+        }
+
+        .nav-bar img {
+            width: 25px;
+            height: 25px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="top-left" onclick="goBack()">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/misc/back.png" alt="Back Icon">
+        <span>Back</span>
+    </div>
+
+    <div class="top-right">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/debugging.png" alt="Debugging" onclick="window.location.href='debugging/index.html'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/settings.png" alt="Settings" onclick="window.location.href='settings/index.html'">
+    </div>
+
+    <div class="top-center">
+        <p>Home</p>
+    </div>
+
+    <div class="header-section">
+        <h3>SnapThunder</h3>
+        <p>SnapChat, at its best!</p>
+    </div>
+
+    <div class="icon-row">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/social-media/instagram.png" alt="Instagram" onclick="window.location.href='#'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/social-media/whatsapp.png" alt="WhatsApp" onclick="window.location.href='#'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/social-media/discord.png" alt="Discord" onclick="window.location.href='#'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/social-media/youtube.png" alt="YouTube" onclick="window.location.href='#'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/social-media/github.png" alt="GitHub" onclick="window.location.href='#'">
+    </div>
+
+    <div class="rounded-body">
+        <p>Version: 0.0.2 (Rewrite)</p>
+        <p>Build: 2</p>
+        <p>Release: Beta / Debug</p>
+        <p>Updated: 04/10/2024, 15:20PM EST</p>
+    </div>
+
+    <div class="tile-grid tile-grid-spacing">
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/imports.png" alt="Imports">
+            <span>Imports</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/tracking.png" alt="Tracking">
+            <span>Tracking</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/logger-history.png" alt="LoggerHistory">
+            <span>Logger</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/theming.png" alt="Theming">
+            <span>Theming</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/message-exporting.png" alt="MessageExporting">
+            <span>Message Exporting</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/memories-exporting.png" alt="MemoriesExporting">
+            <span>Memories Exporting</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/bulk-actions.png" alt="BulkActions">
+            <span>Bulk Actions</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/clear-cache.png" alt="ClearCache">
+            <span>Clear Cache</span>
+        </div>
+        <div class="tile">
+            <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/manage-friends.png" alt="ManageFriends">
+            <span>Manage Friends</span>
+        </div>
+    </div>
+    
+    <br>
+     <br>
+    
+    <div>
+        <p>⬞</p>
+    </div>
+
+    <div class="nav-bar">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/media.png" alt="Media" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/media/index.html'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/features.png" alt="Features" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/features/index.html'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/home.png" alt="Home" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/home/index.html'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/social.png" alt="Social" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/social/index.html'">
+        <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/scripting.png" alt="Scripting" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/scripting/index.html'">
+    </div>
+
+    <script>
+        function goBack() {
+            if (document.referrer) {
+                window.history.back();
+            } else {
+                window.location.href = 'https://sinfulzen.github.io/SnapThunder/application/home/index.html';
+            }
+        }
+    </script>
+
+</body>
+</html>
