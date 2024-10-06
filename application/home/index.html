@@ -86,6 +86,7 @@
 
         p {
             font-size: 1.2rem;
+            line-height: 1.1;
         }
 
         .icon-row {
@@ -104,11 +105,13 @@
         .rounded-body {
             margin-top: 20px;
             padding: 15px;
-            border: 2px solid white;
+            border: 2px solid #7243ff;
             border-radius: 20px;
             width: 90%;
+            background-color: #1e1e1e;
             text-align: center;
-        }
+            line-height: 1;
+}
 
         .tile-grid {
             display: grid;
@@ -124,23 +127,28 @@
             justify-content: center;
             align-items: center;
             background-color: #1e1e1e;
-            border: 2px solid white;
+            border: 2px solid #7243ff;
             border-radius: 15px;
             height: 100px;
+            text-align: center;
         }
 
         .tile img {
             width: 30px;
             height: 30px;
+            margin-bottom: 5px;
         }
 
         .tile span {
-            margin-top: 5px;
-            font-size: 0.9rem;
+            font-size: 0.8rem;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
         .tile-grid-spacing {
-            margin-bottom: 50px;
+            margin-bottom: 80px;
         }
 
         .nav-bar {
@@ -148,7 +156,7 @@
             bottom: 10px;
             display: flex;
             justify-content: space-around;
-            border: 2px solid white;
+            border: 2px solid #7243ff;
             border-radius: 25px;
             background-color: #1e1e1e;
             width: 90%;
@@ -192,10 +200,10 @@
     </div>
 
     <div class="rounded-body">
-        <p>Version: 0.0.2 (Rewrite)</p>
-        <p>Build: 2</p>
+        <p>Version: [FIX] 0.0.4 (Rewrite)</p>
+        <p>Build: 3 (000003)</p>
         <p>Release: Beta / Debug</p>
-        <p>Updated: 04/10/2024, 15:20PM EST</p>
+        <p>Updated: 04/10/2024, 18:14PM EST</p>
     </div>
 
     <div class="tile-grid tile-grid-spacing">
@@ -217,11 +225,11 @@
         </div>
         <div class="tile">
             <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/message-exporting.png" alt="MessageExporting">
-            <span>Message Exporting</span>
+            <span>Message Export</span>
         </div>
         <div class="tile">
             <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/memories-exporting.png" alt="MemoriesExporting">
-            <span>Memories Exporting</span>
+            <span>Memory Export</span>
         </div>
         <div class="tile">
             <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/tiles/bulk-actions.png" alt="BulkActions">
@@ -237,11 +245,8 @@
         </div>
     </div>
     
-    <br>
-     <br>
-    
     <div>
-        <p>⬞</p>
+    <p>⬞</p>
     </div>
 
     <div class="nav-bar">
@@ -251,16 +256,6 @@
         <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/social.png" alt="Social" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/social/index.html'">
         <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/scripting.png" alt="Scripting" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/scripting/index.html'">
     </div>
-
-    <script>
-        function goBack() {
-            if (document.referrer) {
-                window.history.back();
-            } else {
-                window.location.href = 'https://sinfulzen.github.io/SnapThunder/application/home/index.html';
-            }
-        }
-    </script>
 
 </body>
 </html>
