@@ -162,7 +162,9 @@ Only the SnapThunder designs test APK is available to download. You can use the 
 - Only a few People are working on this project (for now). Me ([Sinful Zen](https://github.com/SinfulZen/SnapThunder)), is the only one working on the test designs which is what this repo contains. The SnapThunder APK can be downloaded but it is only the user interface and general layout of what the actual manager looks like.
 
 ### Warnings
-SnapChat has taken a stand against 3rd party modifications and applications. They can easily detect the use of most SnapChat mods. As SnapThunder uses different techniques to hide its presence, SnapChat shouldn't be able to detect it as easily. Unlike SnapMod or SnapEnhance, SnapThunder uses a multiple step process which prevents any detection triggers in the SnapChat app. However, like all other Android mods, it's not 100% safe and never will be. The Team working on the mod are doing everything possible to make SnapThunder the most safest and reliable to use with no risks at all.
+SnapChat has taken a stand against 3rd party modifications and applications. They can easily detect the use of most SnapChat mods. As SnapThunder uses different techniques to hide its presence, SnapChat shouldn't be able to detect it as easily. Unlike SnapMod or SnapEnhance, SnapThunder uses a multiple step process which prevents any detection triggers in the SnapChat app. However, like all other Android mods, it's not 100% safe and never will be. The Team working on the mod are doing everything possible to make SnapThunder the most safest and reliable to use with no risks at all.  
+
+Please know that if the mod is made public and Your account somehow gets banned, We ARE NOT responsible and will NOT offer any assistance, only advice.
 
 ### FAQ
 Once We get more questions asked, We'll put them here with answers!
