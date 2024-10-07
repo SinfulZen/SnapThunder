@@ -46,7 +46,26 @@ This section will be updated soon as there's alot of info to put here and it's a
 <details closed>
   <summary>Interface</summary>
    
-`This section will be updated soon!`
+- `Friend Feed Menu Buttons`
+- `Auto Close Friend Feed Menu`
+- `Friend Feed Message Preview`
+- `Snap Preview`
+- `Bootstrap Overrides`
+- `Enhanced Friend Map NameTags`
+- `Prevent Message List Scrolling`
+- `Streak Expiration Info`
+- `Hide Friend Feed Entry`
+- `Hide Streak Restoring`
+- `Hide Quick Add (Friend Feed)`
+- `Hide Story Suggestions`
+- `Hide Interface Components`
+- `Opera Media Quick Info`
+- `Old Bitmoji Selfie`
+- `Disable SpotLights`
+- `Vertical Story Viewer`
+- `Messaging Indicators`
+- `Stealth Mode Indicator`
+- `Text Overrides`
 
 </details>
 
@@ -80,6 +99,20 @@ This section will be updated soon as there's alot of info to put here and it's a
 
 <details closed>
   <summary>Scripting</summary>
+   
+`This section will be updated soon!`
+
+</details>
+
+<details closed>
+  <summary>Theming</summary>
+   
+`This section will be updated soon!`
+
+</details>
+
+<details closed>
+  <summary>Spoofing</summary>
    
 `This section will be updated soon!`
 
