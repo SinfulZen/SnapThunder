@@ -174,4 +174,12 @@ Once We get more questions asked, We'll put them here with answers!
  - [Ghosty](https://github.com/SinfulZen/SnapThunder) (Plugin & themes Developer)  
  - [Ja Tamin](https://github.com/SinfulZen/SnapThunder) (Core & standalone development)  
  - [MidnightRose](https://github.com/SinfulZen/SnapThunder) (Compatability & version testing)  
- - [FuncArgs69](https://github.com/SinfulZen/SnapThunder) (mapping development & testing)  
+ - [FuncArgs69](https://github.com/SinfulZen/SnapThunder) (mapping development & testing)
+
+### Contact
+[Facebook](https://facebook.com/sinful.zen)  
+[Instagram](https://instagram.com/zen.sinful)  
+[WhatsApp](https://wa.me/07551349188)  
+[Discord](https://discord.com/users/785812234667556877)  
+
+[zensinful@gmail.com](https://gmail.com)  
