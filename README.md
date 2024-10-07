@@ -103,10 +103,10 @@ SnapChat has taken a stand against 3rd party modifications and applications. The
 Once We get more questions asked, We'll put them here with answers!
 
 ### Contributors
- - Sinful Zen (Project Leader)  
- - Cryptix (Designs & UI Tester)  
- - Scythe (Language translation)  
- - Ghosty (Plugin & themes Developer)  
- - Ja Tamin (Core & standalone development)  
- - MidnightRose (Compatability & version testing)  
- - FuncArgs69 (mapping development & testing)  
+ - [Sinful Zen](https://github.com/SinfulZen/SnapThunder) (Project Leader)  
+ - [Cryptix](https://github.com/SinfulZen/SnapThunder) (Designs & UI Tester)  
+ - [Scythe](https://github.com/SinfulZen/SnapThunder) (Language translation)  
+ - [Ghosty](https://github.com/SinfulZen/SnapThunder) (Plugin & themes Developer)  
+ - [Ja Tamin](https://github.com/SinfulZen/SnapThunder) (Core & standalone development)  
+ - [MidnightRose](https://github.com/SinfulZen/SnapThunder) (Compatability & version testing)  
+ - [FuncArgs69](https://github.com/SinfulZen/SnapThunder) (mapping development & testing)  
