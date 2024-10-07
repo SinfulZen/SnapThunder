@@ -22,7 +22,24 @@ This section will be updated soon as there's alot of info to put here and it's a
 <details closed>
   <summary>Downloading</summary>
    
-`This section will be updated soon!`
+- `Save Folder`
+- `Auto Download Sources`
+- `Prevent Self Auto Download`
+- `Path Format`
+- `Allow Duplicates`
+- `Merge Overlays`
+- `Force Image Format`
+- `Force Voice Note Format`
+- `Auto Download Voice Notes`
+- `Download Profile Pictures`
+- `Opera Download Button`
+- `Download Context Menu`
+- `FFMPEG Options`
+- `Logging`
+- `Custom Path Format`
+- `Download All Snaps`
+- `Download All Voice Notes`
+- `Download All Stickers`
 
 </details>
 
