@@ -16,7 +16,8 @@ Only the SnapThunder designs test APK is available to download. You can use the 
 [AnonFiles](https://google.com/404) (Not ready yet)  
 
 ### Compatability
-This section will be updated soon as there's alot of info to put here and it's always updating. Waiting until We have as much info to display as possible is better than constantly updating (in Our opinion).
+> [!Caution] 
+> This section will be updated soon as there's alot of info to put here and it's always updating. Waiting until We have as much info to display as possible is better than constantly updating (in Our opinion). Please note that due to SnapChats's recent lock and banning escapades, we will only be listing versions of SnapChat that are (and We know for sure) safe to use.
 
 ### Features
 <details closed>
