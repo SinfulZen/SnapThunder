@@ -114,7 +114,19 @@ This section will be updated soon as there's alot of info to put here and it's a
 <details closed>
   <summary>Spoofing</summary>
    
-`This section will be updated soon!`
+- `Enable SnapThunder Spoofing (Full)`
+- `Enable Spoofing FailSafe`
+- `Spoof IPV4 Address`
+- `Spoof IPV6 Address`
+- `Spoof MAC Address`
+- `Spoof SnapChat Version`
+- `Enable Trigger Protection`
+- `Enable In-App Action Spoofing`
+- `Spoof Package Name`
+- `Spoof Android ID`
+- `Spoof Fingerprint ID`
+- `Spoof SDK Info`
+- `Enable SnapThunder Server Re-Routing`
 
 </details>
 
@@ -135,7 +147,9 @@ This section will be updated soon as there's alot of info to put here and it's a
 <details closed>
   <summary>Experimental</summary>
    
-`This section will be updated soon!`
+- `Enable SnapThunder Dev Options`
+- `Enable Dev Overlays`
+- `Run SnapThunder AIO Test`
 
 </details>
 
