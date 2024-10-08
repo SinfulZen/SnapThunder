@@ -20,11 +20,11 @@ Only the SnapThunder designs test APK is available to download. You can use the 
 > This section will be updated soon as there's alot of info to put here and it's always updating. Waiting until We have as much info to display as possible is better than constantly updating (in Our opinion). Please note that due to SnapChats's recent lock and banning escapades, we will only be listing versions of SnapChat that are (and We know for sure) safe to use.
 
 ### Features
-Below, are the current features in the mod. You can use the key below to see what features are stable, unstable and unsafe to use.
+Below, are the current features in the mod. You can use the key below to see what features are stable, unstable and unsafe to use.  
 
-🟢 Stable: Can be used with no issues at all, has been fully tested and works perfectly.
-🟡 Unstable: Can be used but can cause issues or bugs, be careful when using.
-🔴 Unsafe: Completely unsafe to use or is experimental, may break SnapChats behaviour or how it functions.
+🟢 Stable: Can be used with no issues at all, has been fully tested and works perfectly.  
+🟡 Unstable: Can be used but can cause issues or bugs, be careful when using.  
+🔴 Unsafe: Completely unsafe to use or is experimental, may break SnapChats behaviour or how it functions.  
 
 <details closed>
   <summary>Downloading</summary>
