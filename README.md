@@ -20,137 +20,247 @@ Only the SnapThunder designs test APK is available to download. You can use the 
 > This section will be updated soon as there's alot of info to put here and it's always updating. Waiting until We have as much info to display as possible is better than constantly updating (in Our opinion). Please note that due to SnapChats's recent lock and banning escapades, we will only be listing versions of SnapChat that are (and We know for sure) safe to use.
 
 ### Features
+Below, are the current features in the mod. You can use the key below to see what features are stable, unstable and unsafe to use.
+
+🟢 Stable: Can be used with no issues at all, has been fully tested and works perfectly.
+🟡 Unstable: Can be used but can cause issues or bugs, be careful when using.
+🔴 Unsafe: Completely unsafe to use or is experimental, may break SnapChats behaviour or how it functions.
+
 <details closed>
   <summary>Downloading</summary>
    
-- `Save Folder`
-- `Auto Download Sources`
-- `Prevent Self Auto Download`
-- `Path Format`
-- `Allow Duplicates`
-- `Merge Overlays`
-- `Force Image Format`
-- `Force Voice Note Format`
-- `Auto Download Voice Notes`
-- `Download Profile Pictures`
-- `Opera Download Button`
-- `Download Context Menu`
-- `FFMPEG Options`
-- `Logging`
-- `Custom Path Format`
-- `Download All Snaps`
-- `Download All Voice Notes`
-- `Download All Stickers`
+- `🟢 Save Folder`
+- `🟢 Auto Download Sources`
+- `🟢 Prevent Self Auto Download`
+- `🟢 Path Format`
+- `🟢 Allow Duplicates`
+- `🟢 Merge Overlays`
+- `🟢 Force Image Format`
+- `🟢 Force Voice Note Format`
+- `🟢 Auto Download Voice Notes`
+- `🟢 Download Profile Pictures`
+- `🟢 Opera Download Button`
+- `🟢 Download Context Menu`
+- `🟢 FFMPEG Options`
+- `🟢 Logging`
+- `🟢 Custom Path Format`
+- `🟢 Download All Snaps`
+- `🟢 Download All Voice Notes`
+- `🟢 Download All Stickers`
 
 </details>
 
 <details closed>
   <summary>Interface</summary>
    
-- `Friend Feed Menu Buttons`
-- `Auto Close Friend Feed Menu`
-- `Friend Feed Message Preview`
-- `Snap Preview`
-- `Bootstrap Overrides`
-- `Enhanced Friend Map NameTags`
-- `Prevent Message List Scrolling`
-- `Streak Expiration Info`
-- `Hide Friend Feed Entry`
-- `Hide Streak Restoring`
-- `Hide Quick Add (Friend Feed)`
-- `Hide Story Suggestions`
-- `Hide Interface Components`
-- `Opera Media Quick Info`
-- `Old Bitmoji Selfie`
-- `Disable SpotLights`
-- `Vertical Story Viewer`
-- `Messaging Indicators`
-- `Stealth Mode Indicator`
-- `Text Overrides`
+- `🟢 Friend Feed Menu Buttons`
+- `🟢 Auto Close Friend Feed Menu`
+- `🟢 Friend Feed Message Preview`
+- `🟢 Snap Preview`
+- `🟢 Bootstrap Overrides`
+- `🟢 Enhanced Friend Map NameTags`
+- `🟢 Prevent Message List Scrolling`
+- `🟢 Streak Expiration Info`
+- `🟢 Hide Friend Feed Entry`
+- `🟢 Hide Streak Restoring`
+- `🟢 Hide Quick Add (Friend Feed)`
+- `🟢 Hide Story Suggestions`
+- `🟢 Hide Interface Components`
+- `🟢 Opera Media Quick Info`
+- `🟢 Old Bitmoji Selfie`
+- `🟢 Disable SpotLights`
+- `🟢 Vertical Story Viewer`
+- `🟢 Messaging Indicators`
+- `🟢 Stealth Mode Indicator`
+- `🟢 Text Overrides`
 
 </details>
 
 <details closed>
   <summary>Messaging</summary>
    
-`This section will be updated soon!`
+- `🟢 Bypass Screenshot Detection`
+- `🟢 Anonymous Story Viewing`
+- `🟢 Prevent Story ReWatch Indicator`
+- `🟢 Hide "Peeking" Notification`
+- `🟢 Hide Bitmoji Presence`
+- `🟢 Hide "Typing" Notifications`
+- `🟢 This section will be updated soon!`
+- `🟢 Unlimited Snap Viewing`
+- `🟢 Automatically Mark As Read`
+- `🟢 Mark Snap As Seen Button`
+- `🟢 Skip When Marking As Seen`
+- `🟢 Loop Media Playback`
+- `🟢 Disable Replay In Friend Feed`
+- `🟢 Half Swipe Notifier`
+- `🟢 Call Start Confirmation`
+- `🟢 Unlimited Conversation Pinning`
+- `🟢 Auto Save Messages`
+- `🟢 Prevent Message Sending`
+- `🟢 Friend Mutification Notifier`
+- `🟢 Enhanced Notifications`
+- `🟢 Notification Blacklist`
+- `🟢 Message Logger`
+- `🟢 Gallery Media Send Override`
+- `🟢 Strip Media Metadata`
+- `🟢 Bypass Message Retention Policy`
+- `🟢 Bypass Message Action Restrictions`
+- `🟢 Remove Locked Groups Status`
 
 </details>
 
 <details closed>
   <summary>Camera</summary>
    
-`This section will be updated soon!`
+- `🟢 Disable Cameras`
+- `🟢 Immersive Preview`
+- `🟢 Black Photos`
+- `🟢 Custom Frame Rate (Front)`
+- `🟢 Custom Frame Rate (Back)`
+- `🟢 HEVC Recording`
+- `🟢 Force Camera Source Encoding`
+- `🟢 Custom Resolution`
+- `🟢 Override Front Resolution`
+- `🟢 Override Back Resolution`
 
 </details>
 
 <details closed>
   <summary>Streaks</summary>
    
-`This section will be updated soon!`
+- `🟢 Reminder Interval`
+- `🟢 Remaining Time`
+- `🟢 Group Notifications`
 
 </details>
 
 <details closed>
   <summary>Tracking</summary>
    
-`This section will be updated soon!`
+- `🟢 Record Messaging Events`
+- `🟢 Allow Background Running`
+- `🟢 Auto Purge`
 
 </details>
 
 <details closed>
   <summary>Scripting</summary>
    
-`This section will be updated soon!`
+- `🟢 Developer Mode`
+- `🟡 Experimental Mode`
+- `🟢 Module Folder`
+- `🟢 Auto Reload`
+- `🟢 Integrated UI`
+- `🟢 Disable Log Anonymization`
+- `🟡 Scripts Store`
+- `🟡 Create Script`
+- `🟡 Manage Scripts`
+- `🟢 Import From File`
+- `🟢 Import From URL`
+- `🟡 Upload Scripts To GitHub`
 
 </details>
 
 <details closed>
   <summary>Theming</summary>
    
-`This section will be updated soon!`
+- `🟡 Installed Themes`
+- `🟡 Themes Store`
+- `🟡 Manage Themes`
+- `🟢 Preset Themes`
+- `🟢 Create Theme`
+- `🟡 Experimental Themes`
+- `🟢 Import From File`
+- `🟢 Import From URL`
+- `🟡 Upload Themes To GitHub`
 
 </details>
 
 <details closed>
   <summary>Spoofing</summary>
    
-- `Enable SnapThunder Spoofing (Full)`
-- `Enable Spoofing FailSafe`
-- `Spoof IPV4 Address`
-- `Spoof IPV6 Address`
-- `Spoof MAC Address`
-- `Spoof SnapChat Version`
-- `Enable Trigger Protection`
-- `Enable In-App Action Spoofing`
-- `Spoof Package Name`
-- `Spoof Android ID`
-- `Spoof Fingerprint ID`
-- `Spoof SDK Info`
-- `Enable SnapThunder Server Re-Routing`
+- `🔴 Enable SnapThunder Spoofing (Full)`
+- `🔴 Enable Spoofing FailSafe`
+- `🟢 Spoof IPV4 Address`
+- `🟢 Spoof IPV6 Address`
+- `🟢 Spoof MAC Address`
+- `🟢 Spoof SnapChat Version`
+- `🔴 Enable Trigger Protection`
+- `🔴 Enable In-App Action Spoofing`
+- `🟢 Spoof Package Name`
+- `🟢 Spoof Android ID`
+- `🟢 Spoof Fingerprint ID`
+- `🟢 Spoof SDK Info`
+- `🟢 Enable SnapThunder Server Re-Routing`
+- `🟡 Disable VPN Detection`
+- `🟡 Disable Mock Location Detection`
 
 </details>
 
 <details closed>
   <summary>Rules</summary>
    
-`This section will be updated soon!`
+- `🟢 Stealth Mode`
+- `🟢 Auto Download`
+- `🟢 Auto Save`
+- `🟢 Automatically Open Snaps`
+- `🟢 Unsaveable Messages`
 
 </details>
 
 <details closed>
   <summary>Misc</summary>
    
-`This section will be updated soon!`
+- `🟢 Enhanced Location`
+- `🟢 SnapChat Plus`
+- `🟢 Media Upload Quality`
+- `🟢 Disable Confirmation Dialogs`
+- `🟢 Disable Metrics`
+- `🟢 Disable Tracking`
+- `🟢 Disable Story Sections`
+- `🟢 Disable Ads`
+- `🟢 Disable Custom Tabs`
+- `🟢 Disable Permission Requests`
+- `🟢 Disable Memories (Snap Feed)`
+- `🟢 Show Usernames In SpotLights`
+- `🟢 Bypass Video Length Restrictions`
+- `🟢 Default Video Playback Rate`
+- `🟢 Video Playback Rate Slider`
+- `🟢 Disable Google Play Service Dialogs`
+- `🟢 Default Volume Controls`
+- `🟢 Disable Telecom Framework`
+- `🟢 Hide Active Music`
+- `🟢 Disable Snap Splitting`
 
 </details>
 
 <details closed>
   <summary>Experimental</summary>
    
-- `Enable SnapThunder Dev Options`
-- `Enable Dev Overlays`
-- `Run SnapThunder AIO Test`
+- `🟡 Enable SnapThunder Dev Options`
+- `🟡 Enable Dev Overlays`
+- `🟢 Run SnapThunder AIO Test`
+- `🟢 Native Hooking`
+- `🟢 Convert Messages Locally`
+- `🟢 Media File Picker`
+- `🟢 Story Logger`
+- `🟢 Call Recorder`
+- `🟢 Account Switcher`
+- `🟢 Better Transcript`
+- `🟢 Voice Note Auto Play`
+- `🟢 Edit Messages`
+- `🟢 Context Menu Fix`
+- `🟢 COF Experiments`
+- `🟢 App Lock`
+- `🟢 Infinite Story Boost`
+- `🟢 My Eyes Only Bypass`
+- `🟢 No Friend Score Delay`
+- `🟢 Best Friend Pinning`
+- `🟢 End-To-End Encryption`
+- `🟢 Hidden SnapChat Plus Features`
+- `🟢 Bespoke Streak Expiry Format`
+- `🟢 Add Friend Source Spoof`
+- `🟢 Prevent Forced Logout`
 
 </details>
 
