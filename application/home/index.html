@@ -9,7 +9,6 @@
     <link rel="icon" href="https://sinfulzen.github.io/SnapThunder/assets/images/branding/icon.ico" type="image/x-icon">
     
     <style>
-
         body {
             margin: 0;
             padding: 0;
@@ -37,7 +36,7 @@
             background: #0e111f;
         }
         ::-webkit-scrollbar-thumb {
-            background-color: lightgrey;
+            background-color: #7243ff;
             border-radius: 10px;
         }
 
@@ -51,8 +50,8 @@
         }
 
         .top-left img, .top-right img {
-            width: 20px;
-            height: 20px;
+            width: 25px;
+            height: 25px;
             margin-right: 5px;
         }
 
@@ -68,13 +67,6 @@
             gap: 10px;
         }
 
-        .top-center {
-            position: absolute;
-            top: 10px;
-            text-align: center;
-            width: 100%;
-        }
-
         .header-section {
             margin-top: 50px;
             text-align: center;
@@ -82,11 +74,6 @@
 
         h3 {
             font-size: 1.8rem;
-        }
-
-        p {
-            font-size: 1.2rem;
-            line-height: 1.1;
         }
 
         .icon-row {
@@ -111,6 +98,7 @@
             background-color: #1e1e1e;
             text-align: center;
             line-height: 1;
+            font-size: 0.9rem;
         }
 
         .tile-grid {
@@ -182,13 +170,8 @@
         <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/pages/home/settings.png" alt="Settings" onclick="window.location.href='settings/index.html'">
     </div>
 
-    <div class="top-center">
-        <p>Home</p>
-    </div>
-
     <div class="header-section">
         <h3>SnapThunder</h3>
-        <p>SnapChat, at its best!</p>
     </div>
 
     <div class="icon-row">
@@ -200,10 +183,9 @@
     </div>
 
     <div class="rounded-body">
-        <p>Version: [FIX] 0.0.5 (Rewrite)</p>
-        <p>Build: 4 (000004)</p>
+        <p>Version: [RW] 0.0.8 (000005)</p>
         <p>Release: Beta / Debug</p>
-        <p>Updated: 06/10/2024, 18:28PM EST</p>
+        <p>Updated: 08/10/2024, 16:04PM EST</p>
     </div>
 
     <div class="tile-grid tile-grid-spacing">
@@ -257,5 +239,10 @@
         <img src="https://sinfulzen.github.io/SnapThunder/assets/images/icons/navigation/scripting.png" alt="Scripting" onclick="window.location.href='https://sinfulzen.github.io/SnapThunder/application/scripting/index.html'">
     </div>
 
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 </body>
 </html>
